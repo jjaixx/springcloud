@@ -1,0 +1,24 @@
+测试环境地址：
+tangyingfan204.fastgroup.cn:8081/otd
+账号密码：
+otdadmin
+abc123
+----------------------------------------------
+正式环境：
+idm.fastgroup.cn
+
+销售业务员：录入需求订单信息，并提交给销售计划员
+销售计划员：汇总，整理，提交到ERP（制造部的计划员）,生成工单。
+
+
+
+
+
+
+
+partsOrderAssistList   			协助录入
+interOrderList   	   			录入
+partsOrderList		   			提交
+partsOrderPersonal				我的需求
+partsOrderScheduleView			日计划查看
+partsOrder-MonthlyPlanView 		月计划查看
